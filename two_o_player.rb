@@ -1,5 +1,5 @@
 require'./player'
-
+require 'byebug'
 class Game
   
   def initialize(name1,name2)
